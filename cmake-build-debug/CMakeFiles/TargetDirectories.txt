@@ -1,0 +1,3 @@
+D:/Kodowanie/Todo_simple_app/cmake-build-debug/CMakeFiles/Todo_simple_app.dir
+D:/Kodowanie/Todo_simple_app/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Kodowanie/Todo_simple_app/cmake-build-debug/CMakeFiles/rebuild_cache.dir
