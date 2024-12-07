@@ -1,10 +1,6 @@
 # ninja log v5
-3	1408	7553105021832653	CMakeFiles/Todo_simple_app.dir/main.cpp.obj	7cf2c1f61e4b34b3
-22	1389	7553105021632671	CMakeFiles/Todo_simple_app.dir/src/File_manager.cpp.obj	13ab9b741b67f044
-0	122	7553106106837614	build.ninja	f474a8c7c5ebd3ad
-17	1556	7553105023302640	CMakeFiles/Todo_simple_app.dir/src/Todo_list.cpp.obj	e876719a85ef4854
-1556	1691	7553105024623521	Todo_simple_app.exe	8b001dfe0bec7a5b
 18	1048	7553106120586320	CMakeFiles/Todo_simple_app.dir/main.cpp.obj	8cb7c419a0600d78
 23	1064	7553106120726926	CMakeFiles/Todo_simple_app.dir/src/File_manager.cpp.obj	4da5c0d8f25601f
+0	122	7553121273464991	build.ninja	f474a8c7c5ebd3ad
 3	1199	7553106122082491	CMakeFiles/Todo_simple_app.dir/src/Todo_list.cpp.obj	a1820c56899d8f68
 1199	1332	7553106123392481	Todo_simple_app.exe	ab76648ffb896cee
