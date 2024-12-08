@@ -13,7 +13,7 @@ int main() {
     do {
         // Just print user menu at each loop
         cout << "\nMenu:\n";
-        cout << "1. Add new task\n";
+        cout << "1. Create new task\n";
         cout << "2. Print my tasks\n";
         cout << "3. Change status of task\n";
         cout << "4. Delete task\n";
