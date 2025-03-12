@@ -1,6 +1,6 @@
 # Todo Simple App
 
-A simple console-based Todo app with save and load functionality.
+A simple console-based Todo app with save and load functionality with structure of a double-linked list.
 
 ## Features
 - Add, view, and delete tasks.
